@@ -2,6 +2,8 @@
 
 [[10_HERRAMIENTAS|← Anterior]] · [[00_INDICE|Índice]] · [[12_SIGUIENTE_FASE|Siguiente →]]
 
+Documento contractual detallado: [[../CONTRATOS/07_INTERFACE04_CONTRACT|Spatial → Interfaz/Fase 04]].
+
 ## Muros
 
 ```text
@@ -63,3 +65,5 @@ nivel origen/destino
 - Openings parametrizados: **pendiente**
 - Alturas: **pendiente**
 - Quantification readiness: **pendiente**
+
+El schema ejecutable de la interfaz es la fuente de verdad cuando exista; este documento resume el objetivo funcional.
