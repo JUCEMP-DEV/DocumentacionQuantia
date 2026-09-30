@@ -1,0 +1,66 @@
+Mis comandos
+
+Ejecución del entorno  
+cd "D:\03 INGENIEIRA SISTEMAS\03 RESIDENCIAS PROFESIONALES\PU-Core"  
+.\.venv\Scripts\Activate.ps1   Activar el entorno
+docker compose up -d database       Para activar el backend
+docker compose ps
+uvicorn pu_core.api.main:app --reload --port 8010 Publicar la interface
+
+
+Detener el entorno
+
+deactivate  para la ejecución de uvicorn
+
+
+Publicar tarjetas 
+python -m pu_core.cli publish c7dac09e-5557-487f-bcf9-ebfb0a02da6b
+pu-core publish c7dac09e-5557-487f-bcf9-ebfb0a02da6b
+
+Comando para encontrar el Id para publicación de las tarjetas
+python -c "from pu_core.cli import SessionLocal; from pu_core.models import Card; from sqlalchemy import select; s=SessionLocal(); cards=list(s.scalars(select(Card).order_by(Card.external_concept_code))); [print(f'{c.id} | {c.external_concept_id} | {c.external_concept_code} | {c.status.value} | vigente={c.is_current}') for c in cards]; s.close()"
+
+python -m pu_core.cli publish e0a5968e-2e7d-4065-bb19-d6d6056a6326
+
+
+
+
+PARA Quantia
+
+para desplegar Backend
+
+	para reinstalar el entorno 
+	python -m pip install -r requirements.txt
+
+	Para revisar las versiones útiles 
+	python -m pip freeze
+
+
+
+	.\.venv\Scripts\python.exe -m pip install -r requirements.txt	
+	.\.venv\Scripts\python.exe -m pip show pypdf 			Verificación
+	.\.venv\Scripts\python.exe -m uvicorn app.main:app --reload
+	.\.venv\Scripts\Activate.ps1
+	Python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
+
+Para desplegar Front Nueva terminal   si no esta instalada packege.json --- npm install
+
+	cd frontend
+	npm install
+	npm run dev
+	netstat -ano | findstr :Puerto(5173) encontrar el puerto y ver si esta ocupado
+	taskkill /PID NUMERO_PID /F  detener el puerto  taskkill /3904 /F
+	npm run dev -- --port 5173
+
+
+
+para actualizar la base local en sureface de GitHub usar siempre este
+git fetch quantia-v2-local --prune
+git pull --ff-only quantia-v2-local main
+
+Para actualizat git nube
+
+
+
+
+tutor.cpfia40@labmexia.gob.mx
