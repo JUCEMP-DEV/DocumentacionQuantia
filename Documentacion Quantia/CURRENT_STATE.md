@@ -13,6 +13,7 @@ Este archivo funciona como puntero al estado vigente. No duplica el contenido t�
 - Contratos entre fases: [[CONTRATOS/00_INDICE_CONTRATOS]]
 - Editor 04: [[03_EDITOR_04/IMPLEMENTACION_EDITOR_04_CONSUMO_05_2026-09-29]]
 - Integración 04 → 05: [[04_INTEGRACION_04_05/REPORTE_CAMBIOS_MOTOR_INTERFACES_04_05_2026-09-29]]
+- Revisión y continuidad activa: [[07_REVISION_CONTINUIDAD/00_INDICE]]
 
 ## Estado de la reorganización
 

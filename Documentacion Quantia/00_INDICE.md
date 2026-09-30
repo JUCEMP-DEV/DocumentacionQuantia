@@ -38,3 +38,7 @@ Punto único de entrada para el Vault de Obsidian.
 - [[06_OPERACION/COMANDOS_DESARROLLO|Comandos de desarrollo]]
 
 Los duplicados exactos de la reorganización fueron eliminados. El material histórico conservado permanece dentro del archivo del dominio correspondiente.
+
+## Revisión y continuidad de desarrollo
+
+- [[07_REVISION_CONTINUIDAD/00_INDICE|Seguimiento de revisión y continuidad]]
