@@ -2,6 +2,13 @@
 
 [[00_INDICE|← Índice maestro]]
 
+## 2026-09-30 — DOC-2026-09-30-R3
+
+- Se creó `07_REVISION_CONTINUIDAD/` para separar seguimiento activo de documentación canónica.
+- Se registró la revisión del contrato Spatial → Fase 04.
+- Se documentaron información disponible, pendientes, orden de revisión y criterio de cierre.
+- No se modificaron contratos ni schemas ejecutables.
+
 ## 2026-09-30 — DOC-2026-09-30-R2
 
 - Se sincronizó la reorganización con el paquete Obsidian v2.
