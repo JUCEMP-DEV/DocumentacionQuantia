@@ -17,6 +17,7 @@ Punto único de entrada para el Vault de Obsidian.
 
 - [[02_SPATIAL/00_INDICE|Índice Quantia SpatialV1]]
 - [[02_SPATIAL/REPORTES/REPORTE_INTERFAZ_03_CALL2_2026-09-29|Reporte Interfaz 03 + Call 2]]
+- [[02_SPATIAL/99_ARCHIVO/GUIA_MAESTRA_REGENERACION_PLANO_QUANTIA_SPATIAL_V1|Guía histórica archivada]]
 
 ## Editor 04
 
@@ -36,6 +37,4 @@ Punto único de entrada para el Vault de Obsidian.
 
 - [[06_OPERACION/COMANDOS_DESARROLLO|Comandos de desarrollo]]
 
-## Archivo
-
-- `99_ARCHIVO/` conserva material duplicado o histórico. No se usa como fuente vigente.
+Los duplicados exactos de la reorganización fueron eliminados. El material histórico conservado permanece dentro del archivo del dominio correspondiente.
