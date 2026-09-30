@@ -30,6 +30,7 @@
 - [[05_CAMBIOS/PUNTOS_DE_RETORNO|Puntos de retorno]]
 - [[06_FUENTES/00_FUENTES_DE_VERDAD|Fuentes de verdad]]
 - [[06_FUENTES/REPOSITORIOS|Repositorios]]
+- [[06_FUENTES/DEPURACION_QUANTIA_SPATIALV1_2026-09-30|Depuración Quantia SpatialV1 — 2026-09-30]]
 
 ## Regla principal
 Cuando un punto quede validado: evidencia → decisión → documento de etapa → contrato canónico si aplica → commit/punto de retorno.
