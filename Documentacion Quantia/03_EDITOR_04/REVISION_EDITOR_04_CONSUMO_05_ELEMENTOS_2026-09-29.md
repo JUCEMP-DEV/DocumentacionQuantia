@@ -3,7 +3,7 @@
 > Actualización posterior: esta auditoría describe el estado previo. La implementación del contrato común y de las herramientas frecuentes, con sus límites y pruebas, se encuentra en [IMPLEMENTACION_EDITOR_04_CONSUMO_05_2026-09-29.md](IMPLEMENTACION_EDITOR_04_CONSUMO_05_2026-09-29.md). El schema runtime activo es `QUANTIA_04_05_V1`; el schema canónico DRAFT de esta auditoría continúa como propuesta más amplia.
 
 **Fecha:** 2026-09-29.  
-**Referencia:** [Pipeline.md](Pipeline.md), secciones 19, 23, 25 y 27.  
+**Referencia:** [Pipeline.md](../01_PROCESO_GENERAL/PIPELINE_QUANTIA.md), secciones 19, 23, 25 y 27.  
 **Alcance:** inspección de código de ambas variantes de 04, adaptadores, validación geométrica, Call 2 y las 101 reglas locales V1.8.  
 **Estado de esta entrega:** auditoría y especificación de contrato. El schema adjunto es un diseño propuesto; no sustituye todavía las rutas productivas ni certifica una integración completa.
 
@@ -25,9 +25,9 @@ Ni todas las cantidades se obtienen de una planta arquitectónica ni todos los d
 
 | Archivo | Uso |
 |---|---|
-| [CONTRATO_CONSUMO_04_05_V1.schema.json](Contratos/CONTRATO_CONSUMO_04_05_V1.schema.json) | Estructura propuesta de entidades, estado, procedencia y completitud |
-| [CONSUMO_04_05_V1.plantilla.json](Contratos/CONSUMO_04_05_V1.plantilla.json) | Plantilla vacía explícitamente no lista para cálculo; no es un proyecto real |
-| [MATRIZ_REQUISITOS_MOTOR_04_05_V1.json](Contratos/MATRIZ_REQUISITOS_MOTOR_04_05_V1.json) | Los 101 conceptos con unidad, estrategia, requisitos, dependencias y exclusiones |
+| [CONTRATO_CONSUMO_04_05_V1.schema.json](../CONTRATOS/CONTRATO_CONSUMO_04_05_V1.schema.json) | Estructura propuesta de entidades, estado, procedencia y completitud |
+| [CONSUMO_04_05_V1.plantilla.json](../CONTRATOS/CONSUMO_04_05_V1.plantilla.json) | Plantilla vacía explícitamente no lista para cálculo; no es un proyecto real |
+| [MATRIZ_REQUISITOS_MOTOR_04_05_V1.json](../CONTRATOS/MATRIZ_REQUISITOS_MOTOR_04_05_V1.json) | Los 101 conceptos con unidad, estrategia, requisitos, dependencias y exclusiones |
 
 La matriz se obtiene del archivo local de reglas, no de nombres inventados. Incluye hash de la fuente para detectar cambios. Su indicador de cobertura se refiere solamente al adaptador nuevo `spatial_quantity_inputs.py`, no a todos los caminos legacy del motor.
 

@@ -2,7 +2,7 @@
 
 **Fecha:** 2026-09-29  
 **Proyecto:** QuantiaV2L  
-**Referencia funcional:** [Pipeline.md](Pipeline.md), especialmente secciones 19, 23, 25 y 27.  
+**Referencia funcional:** [Pipeline.md](../01_PROCESO_GENERAL/PIPELINE_QUANTIA.md), especialmente secciones 19, 23, 25 y 27.  
 **Estado:** integración automática parcial implementada y probada. No representa el cierre de los 101 conceptos.
 
 ## 1. Problema reportado

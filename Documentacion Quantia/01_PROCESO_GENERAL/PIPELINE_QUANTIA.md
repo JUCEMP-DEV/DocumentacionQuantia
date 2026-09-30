@@ -3044,4 +3044,4 @@ La entrada al editor 04 tiene dos rutas: **01 → 02 → 03 → archivo único d
 
 El archivo de entrada de planos es `QUANTIA_03_04_V1`. Ambos orígenes utilizan el editor métrico común y el mismo consumo runtime `QUANTIA_04_05_V1`, generado por el backend y compartido con la simulación. 05 revisa las cantidades derivadas; las propiedades faltantes de los elementos se resuelven en 04 y las definiciones de alcance/sistema en 01/02.
 
-La implementación, herramientas, schemas, pruebas y limitaciones están documentados en [Implementación del editor 04 y consumo de 05](IMPLEMENTACION_EDITOR_04_CONSUMO_05_2026-09-29.md). Esta actualización no declara cobertura automática completa de los 101 conceptos ni sustituye la especificación de arquitectura del documento maestro.
+La implementación, herramientas, schemas, pruebas y limitaciones están documentados en [Implementación del editor 04 y consumo de 05](../03_EDITOR_04/IMPLEMENTACION_EDITOR_04_CONSUMO_05_2026-09-29.md). Esta actualización no declara cobertura automática completa de los 101 conceptos ni sustituye la especificación de arquitectura del documento maestro.

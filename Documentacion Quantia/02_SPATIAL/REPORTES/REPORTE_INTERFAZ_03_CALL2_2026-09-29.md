@@ -11,7 +11,7 @@ El trabajo abarcó la reconstrucción posterior a F01.5, la integridad del WallG
 
 **No se sustituyó completamente el análisis productivo de la pantalla 03.2 por el ejecutor de Call 2 probado.** La existencia del runner y su resultado visual no demuestra que pulsar «Analizar» en 03.2 ejecute actualmente esa misma cadena.
 
-Este reporte complementa [el reporte del motor 04 → 05](REPORTE_CAMBIOS_MOTOR_INTERFACES_04_05_2026-09-29.md) y debe leerse junto con [Pipeline.md](Pipeline.md). El pipeline contiene objetivos y estados de distintas generaciones; no todos están consolidados en la ruta activa.
+Este reporte complementa [el reporte del motor 04 → 05](../../04_INTEGRACION_04_05/REPORTE_CAMBIOS_MOTOR_INTERFACES_04_05_2026-09-29.md) y debe leerse junto con [Pipeline.md](../../01_PROCESO_GENERAL/PIPELINE_QUANTIA.md). El pipeline contiene objetivos y estados de distintas generaciones; no todos están consolidados en la ruta activa.
 
 ## 2. Baseline de reconstrucción conservado
 
@@ -72,7 +72,7 @@ La validación de esa etapa registró 27 pruebas seleccionadas y 3 pruebas integ
 
 Se creó una revisión visual con originales, muros limpios, superposiciones, selector de nivel y controles de visualización:
 
-[Revisión visual de los seis niveles](../Backend/app/quantia_spatialV1/tests/output/canonical_visual_review/20260926_140640_572805/index.html).
+[Revisión visual de los seis niveles](../../../Backend/app/quantia_spatialV1/tests/output/canonical_visual_review/20260926_140640_572805/index.html).
 
 También se conservaron checkpoints previos y posteriores al finalizador V2, con ZIP de fuentes y manifiestos de hashes, bajo `Backend/app/quantia_spatialV1/documentation/checkpoints/`.
 
@@ -167,7 +167,7 @@ El archivo `run_status.json` registra `EXPORTED` y modo `LIVE_OR_EXACT_REPLAY`: 
 
 ## 9. Resultado visual y paquete de entrega
 
-[Abrir comparación visual de Call 2](../Backend/app/quantia_spatialV1/tests/output/call2_interface04/groq/401ffb2c754c/casa_viri__02_planta_alta_copia_1/index.html).
+[Abrir comparación visual de Call 2](../../../Backend/app/quantia_spatialV1/tests/output/call2_interface04/groq/401ffb2c754c/casa_viri__02_planta_alta_copia_1/index.html).
 
 La vista compara plano original, baseline y resultado validado. Señala muros finales, eliminaciones rechazadas, candidatos y región incierta.
 

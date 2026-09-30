@@ -18,7 +18,7 @@ La fase 02 ya dirigía el modo `dibujar` a 04. Se conserva esa navegación. El e
 
 `buildPhase03Delivery()` reúne el resultado espacial y los contextos de 01/02 en un solo sobre. La persistencia de la vista 03.2 ya usa ese sobre. Su recepción conserva una copia en `estructuraEspacial.intake03`, incluyendo candidatos, gráficos excluidos y demás evidencia disponible.
 
-- [Schema de entrada 03 → 04](Contratos/CONSUMO_03_04_V1.schema.json).
+- [Schema de entrada 03 → 04](../CONTRATOS/CONSUMO_03_04_V1.schema.json).
 - En 04: **Importar archivo único de 03** y **Descargar origen de 03**.
 - Importar sustituye el modelo de la sesión tras una confirmación si ya existe geometría. No sustituye silenciosamente las decisiones actuales de 01/02; el contexto original permanece en `intake03`.
 - Los proyectos legacy siguen siendo legibles por el adaptador. La importación de archivo requiere el nuevo sobre y geometría métrica; un bbox o segmento raster no basta.
@@ -29,8 +29,8 @@ Esto no reemplaza el motor de análisis de 03 ni conecta por sí mismo el runner
 
 **Validar y descargar consumo de 05** llama a `POST /api/motor/consumo-04` y descarga `QUANTIA_04_05.json`.
 
-- [Schema runtime 04 → 05](Contratos/CONSUMO_04_05_RUNTIME_V1.schema.json).
-- [Ejemplo sintético de consumo](Contratos/EJEMPLO_MANUAL_04_05_V1.json).
+- [Schema runtime 04 → 05](../CONTRATOS/CONSUMO_04_05_RUNTIME_V1.schema.json).
+- [Ejemplo sintético de consumo](../CONTRATOS/EJEMPLO_MANUAL_04_05_V1.json).
 
 Incluye:
 
@@ -144,9 +144,9 @@ La prueba ficticia usa un espacio de 12 × 6 m, una puerta interior de madera, u
 
 Evidencia local:
 
-- [Captura del editor](../Backend/tests/output/editor04_browser/editor04.png).
-- [Prueba de navegador](../Backend/tests/output/editor04_browser/smoke.json).
-- [Respuesta resumida del catálogo real](../Backend/tests/output/editor04_browser/live_catalog_smoke.json).
+- [Captura del editor](../../Backend/tests/output/editor04_browser/editor04.png).
+- [Prueba de navegador](../../Backend/tests/output/editor04_browser/smoke.json).
+- [Respuesta resumida del catálogo real](../../Backend/tests/output/editor04_browser/live_catalog_smoke.json).
 - Harness de pruebas: `Frontend/tests/manual04-harness.html`. Con Vite activo puede abrirse en `http://127.0.0.1:5173/tests/manual04-harness.html`. Usa un modelo ficticio aislado y no persiste el estado de una cuenta.
 
 Comandos de regresión, desde `Backend`:

@@ -50,3 +50,7 @@ Documento / Plano
 - Elementos parametrizados para 04: **PENDIENTE**
 
 [[12_SIGUIENTE_FASE|Ir al punto actual]]
+
+## Contratos relacionados
+
+- [[../CONTRATOS/00_INDICE_CONTRATOS|Índice general de contratos]]
