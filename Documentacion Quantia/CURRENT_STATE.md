@@ -20,6 +20,9 @@ Este archivo funciona como puntero al estado vigente. No duplica el contenido t�
 - estructura Obsidian por dominio: **ACTUALIZADA**;
 - contratos documentales v2: **INCORPORADOS**;
 - duplicados exactos de la reorganización: **ELIMINADOS**;
+- revisión/continuidad detallada: **ACTIVA**;
+- contrato Spatial → 04: **EN CIERRE**;
+- repo técnico Quantia SpatialV1: **PENDIENTE DE CREACIÓN/CONEXIÓN**;
 - artefactos runtime/schema ausentes: **PENDIENTES DE INCORPORAR DESDE SU FUENTE REAL**.
 
 ## Regla

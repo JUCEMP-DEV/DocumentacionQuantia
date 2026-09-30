@@ -2,16 +2,20 @@
 
 [[00_INDICE|← Índice maestro]]
 
-**Checkpoint:** DOC-2026-09-30-R2  
+**Checkpoint:** DOC-2026-09-30-R4  
 **Proyecto documentado:** Quantia V2L / Quantia SpatialV1  
-**Rama de reorganización:** `docs/reorganizacion-2026-09-30`  
-**Base de reorganización:** `main@9cb95c09d386b76bb4b0b74f31c3d309aac89de3`
+**Punto de retorno previo:** `main@fc442ca52c77d99cbf6c691c2e9ddf81b6a49453`
 
-## Cambios de R2
+## Cambios de R4
 
-- sincronización de la estructura Obsidian reorganizada;
-- incorporación del paquete documental de contratos;
-- eliminación de duplicados exactos;
-- actualización de índices y punteros de estado.
+- estructura detallada de `07_REVISION_CONTINUIDAD/`;
+- seguimiento por etapa del contrato Spatial → 04;
+- secciones de pruebas, decisiones, cambios, retornos y fuentes;
+- política de repositorios y no duplicación permanente en Library.
+
+## Antecedente inmediato
+
+R2 incorporó la estructura Obsidian reorganizada, contratos documentales, eliminación de duplicados e índices/punteros de estado.  
+R3 creó el apartado separado `07_REVISION_CONTINUIDAD/` para seguimiento activo.
 
 Este checkpoint es documental. No declara una nueva versión del motor ni modifica por sí mismo el estado técnico de Quantia.
