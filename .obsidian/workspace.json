@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "e1cc412eb1d71b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "b443d59f4ce74969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cd14196613042de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentacion Quantia/08_CODIGO_COMANDOS_APLICADOS/QUANTIA V2L   COMANDOS DE VS CODE TERMINAL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QUANTIA V2L   COMANDOS DE VS CODE TERMINAL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29925e6c282938a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b2b61d33b7ac668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8e0619c4bba7bde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c1e9c4562bbda1a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "34036e6009d616ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bebf8965f6e82a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "464e4bd08be46d2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678a485da48aef83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentacion Quantia/07_REVISION_CONTINUIDAD/01_CONTRATO_SPATIAL_FASE04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "79222d2e04f63b1e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Documentacion Quantia/07_REVISION_CONTINUIDAD/01_CONTRATO_SPATIAL_FASE04.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "6928d6be98e2001e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "6d1cce69eb1b1e77",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "3628f5b8918b600e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Documentacion Quantia/07_REVISION_CONTINUIDAD/01_CONTRATO_SPATIAL_FASE04.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "ec7218165182164e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Documentacion Quantia/07_REVISION_CONTINUIDAD/01_CONTRATO_SPATIAL_FASE04.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas al pie"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false,
+      "markdown-importer:Abrir el importador de Markdown": false
+    }
+  },
+  "active": "3cd14196613042de",
+  "lastOpenFiles": [
+    "Documentacion Quantia/08_CODIGO_COMANDOS_APLICADOS/Instalación Limpia Py - Dependencias.md",
+    "Documentacion Quantia/08_CODIGO_COMANDOS_APLICADOS/Comandos VSC.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/QUANTIA_FLUJO_CONTRATOS_02_03_04.md",
+    "Documentacion Quantia/08_CODIGO_COMANDOS_APLICADOS/QUANTIA V2L   COMANDOS DE VS CODE TERMINAL.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/Sin confirmar 388090.crdownload",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/06 OBSERVACIONES INTERMEDIAS.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/02 Factores pendientes por utilizar para cruzar la correlacion entre elementos.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/03 Factores Principales Call 1.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/01_CONTRATO_SPATIAL_FASE04.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/04 Base para llamado actualizado.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/05 Clasificación por relación con el predio.md",
+    "Sin título.md",
+    "Documentacion Quantia/08_CODIGO_COMANDOS_APLICADOS/COMANDOS DENTRO DE GIT BASH.md",
+    "Documentacion Quantia/08_CODIGO_COMANDOS_APLICADOS/A-Interconexion carpeta QuantiaSpatialV1.md",
+    "Documentacion Quantia/08_CODIGO_COMANDOS_APLICADOS",
+    "Anexos/Pasted image 20260930205855.png",
+    "Anexos",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD/00_INDICE.md",
+    "Documentacion Quantia/07_REVISION_CONTINUIDAD",
+    "Documentacion Quantia/IMPLEMENTACION_EDITOR_04_CONSUMO_05_2026-09-29.md",
+    "Documentacion Quantia/CURRENT_VERSION.md",
+    "Documentacion Quantia/CURRENT_STATE.md",
+    "Documentacion Quantia/CONTRATOS/TEMPLATE_CONTRATO.md",
+    "Documentacion Quantia/CONTRATOS/07_INTERFACE04_CONTRACT.md",
+    "Documentacion Quantia/CONTRATOS/06_SPACE_CLOSURE_CONTRACT.md",
+    "Documentacion Quantia/CONTRATOS/05_CALL2_CONTRACT.md",
+    "Documentacion Quantia/CONTRATOS/04_WALLGRAPH_CONTRACT.md",
+    "Documentacion Quantia/CONTRATOS/03_F02_PERIMETER_CONTRACT.md",
+    "Documentacion Quantia/CONTRATOS/02_F01_5_EVIDENCE_CONTRACT.md",
+    "Documentacion Quantia/CONTRATOS/01_LEVELVIEW_CONTRACT.md",
+    "Documentacion Quantia/CONTRATOS/00_INDICE_CONTRATOS.md",
+    "Documentacion Quantia/CONTRATOS",
+    "Documentacion Quantia/06_OPERACION",
+    "Documentacion Quantia/05_RESIDENCIAS",
+    "Documentacion Quantia/04_INTEGRACION_04_05",
+    "Documentacion Quantia/03_EDITOR_04",
+    "Documentacion Quantia/02_SPATIAL/REPORTES"
+  ]
+}
